@@ -10,7 +10,6 @@ namespace GitFlowDemo
         static void Main(string[] args)
         {
             Console.WriteLine("This is totally the production code.");
-
             // Here is my data access code.
         }
     }
