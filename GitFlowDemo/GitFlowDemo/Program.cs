@@ -13,7 +13,8 @@ namespace GitFlowDemo
             // this is some sample logging code
             // Here is my data access code.
 
-            Console.Title -=
+            //fixed fixed 
+            //Console.Title -=
         }
     }
 }
